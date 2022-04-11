@@ -1,6 +1,7 @@
 import React from 'react';
-import logo from './logo.svg';
-import Form from './Form.jsx';
+
+import Form from './Form';
+
 
 function App() {
   return (
